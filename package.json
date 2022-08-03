@@ -1,0 +1,14 @@
+{
+  "name": "adamandsarah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "firebase deploy --only hosting:adam-and-sarah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Made-of-Clay/wedding-website.git"
+  },
+  "license": "MIT"
+}
